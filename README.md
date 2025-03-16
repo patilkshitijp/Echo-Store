@@ -1,5 +1,5 @@
 Echo Store 🛒
-A seamless shopping experience that fetches product details dynamically from the Fake Store API and displays them in an interactive UI using Bootstrap.
+A seamless shopping experience that fetches product details dynamically from the Fake Store API and displays them in an interactive UI using HTML CSS JAVASCRIPT and Bootstrap.
 
 📌 Features
 ✅ Fetches product data from FakeStoreAPI using fetch()
